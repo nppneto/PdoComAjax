@@ -1,0 +1,20 @@
+/* h2 {
+            text-align: center;
+        } */
+
+form {
+    text-align: center;
+}
+
+/* .btn-primary {
+            text-align: center;
+            margin-left: 520px;
+        } */
+
+.form-group {
+    text-align: center;
+    /* border: 1px solid; */
+    margin-left: 320px;
+    /* margin-right: 200px; */
+    /* margin: 0px auto; */
+}
